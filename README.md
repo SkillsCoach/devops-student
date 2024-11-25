@@ -1,2 +1,1 @@
-# devops-student
-New Devops Student 
+This repository contains the lab for agile planning
